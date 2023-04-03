@@ -3,8 +3,10 @@
 
 - 🔭 I’m currently working on [**The ODin Project**](https://www.theodinproject.com/)
 - 🌱 I’m currently learning **Flask, JS, Wordpress** (+ everything :D)
-- 👨‍💻 My projects are available at [https://github.com/minhtran5109](https://github.com/minhtran5109)
-- 📝 Project BigBrain [https://gitfront.io/r/user-7395346/U7kUArwpeK3j/6080-a3-BigBrain/](https://gitfront.io/r/user-7395346/U7kUArwpeK3j/6080-a3-BigBrain/)
+- 👨‍💻 My projects are available at 
+    - [GitHub](https://github.com/minhtran5109)
+    - [Project BigBrain](https://gitfront.io/r/user-7395346/U7kUArwpeK3j/6080-a3-BigBrain/)
+    - [Project MyRecipes]()
 - 🥅 2023 Goals: Contribute more to my profile
 - ⚡ Fun fact: I love building models, guitar and video games
 - 📫 How to reach me **minhtran5109@gmail.com**
