@@ -2,8 +2,8 @@
 ## A student deveveloper with passion in front-end/web programming
 
 - 🔭 I’m currently working on [**The ODin Project**](https://www.theodinproject.com/), my progress so far:
-      - Completed: Foundations
-      - In progress: Full stack JavaScript
+    - Completed: Foundations
+    - In progress: Full stack JavaScript
 - 🌱 I’m currently learning **Flask, JavaScript + ReactJS, Wordpress** (+ everything :D)
 - 👨‍💻 My projects are available at 
     - [GitHub](https://github.com/minhtran5109) (side projects + odin small projects exercises
