@@ -9,7 +9,7 @@
     - [GitHub](https://github.com/minhtran5109) (side projects + odin small projects exercises)
     - [Project BigBrain](https://gitfront.io/r/user-7395346/U7kUArwpeK3j/6080-a3-BigBrain/)
     - [Project MyRecipes](https://gitfront.io/r/user-7395346/GthU95mKhbS1/3900-MyRecipes-backup/)
-- 🥅 2023 Goals: Contribute more to my profile
+- 🥅 2024 Goals: Contribute more to my profile. Work on side projects
 - ⚡ Fun fact: I love building plastic models, guitar and video games
 - 📫 How to reach me **minhtran5109@gmail.com**
 
