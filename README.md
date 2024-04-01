@@ -6,7 +6,7 @@
     - In progress: Full Stack JavaScript
 - 🌱 I’m currently learning more about **Flask, JavaScript + ReactJS, TypeScript**
 - 👨‍💻 My projects are available at 
-    - [GitHub](https://github.com/minhtran5109) (side projects + odin small projects exercises)
+    - [GitHub](https://github.com/minhtran5109) (side projects + odin projects and exercises)
     - [Project BigBrain](https://gitfront.io/r/user-7395346/U7kUArwpeK3j/6080-a3-BigBrain/)
     - [Project MyRecipes](https://gitfront.io/r/user-7395346/GthU95mKhbS1/3900-MyRecipes-backup/)
     - [Project myCalendar](https://github.com/minhtran5109/myCalendar/)
