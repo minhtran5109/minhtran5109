@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [**The Odin Project**](https://www.theodinproject.com/), my progress so far:
     - Completed: Foundations
     - In progress: Full Stack JavaScript
-- 🌱 I’m currently learning **Flask, JavaScript + ReactJS, Wordpress** (+ everything :D)
+- 🌱 I’m currently learning more about **Flask, JavaScript + ReactJS, TypeScript**
 - 👨‍💻 My projects are available at 
     - [GitHub](https://github.com/minhtran5109) (side projects + odin small projects exercises)
     - [Project BigBrain](https://gitfront.io/r/user-7395346/U7kUArwpeK3j/6080-a3-BigBrain/)
